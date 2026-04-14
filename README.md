@@ -1,4 +1,4 @@
-# ContextGenie AI - 交付文件说明
+# ContextGenie AI
 
 ## 📦 项目文件结构
 
